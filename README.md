@@ -1,6 +1,6 @@
 # ChronoSphere 🕰️  
 
-ChronoSphere is a JavaFX-based multi-clock system that blends analog, digital, and 3D elements into a visually captivating experience.
+ChronoSphere is a JavaFX-based multi-clock system that blends analog, digital, and 3D elements into a visually captivating experience. 
 
 ## 🌟 Features
 
@@ -35,7 +35,7 @@ ChronoSphere is a JavaFX-based multi-clock system that blends analog, digital, a
 - Uses a custom icon (clock.png) for the stage.
 
 ## 📸 Screenshots
-*(Add screenshots here once available)*  
+![Screenshot](Screenshot%202025-02-24%20013736.png)
 
 ## 🚀 Installation
 1. Clone the repository  
@@ -53,8 +53,6 @@ ChronoSphere is a JavaFX-based multi-clock system that blends analog, digital, a
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first.
 
-## 📜 License
+## 🐝 License
 This project is licensed under the MIT License.
-
-
 
